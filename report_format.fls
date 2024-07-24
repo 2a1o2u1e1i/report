@@ -1,0 +1,145 @@
+PWD c:/Users/light/report
+INPUT c:/Users/light/texlive/2024/texmf.cnf
+INPUT c:/Users/light/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT c:/Users/light/texlive/2024/texmf-var/web2c/euptex/platex.fmt
+INPUT c:/Users/light/report/report_format.tex
+OUTPUT report_format.log
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/platex/base/jarticle.cls
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/platex/base/jarticle.cls
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/platex/base/jsize10.clo
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/platex/base/jsize10.clo
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/platex/base/jsize10.clo
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/url/url.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+INPUT ./report_format.aux
+INPUT ./report_format.aux
+INPUT report_format.aux
+OUTPUT report_format.aux
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT c:/Users/light/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+OUTPUT report_format.dvi
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT ./dousakekka-1.png
+INPUT ./dousakekka-1.png
+INPUT ./dousakekka-1.png
+INPUT extractbb -B cropbox -O dousakekka-1.png
+INPUT ./dousakekka-2.png
+INPUT ./dousakekka-2.png
+INPUT ./dousakekka-2.png
+INPUT extractbb -B cropbox -O dousakekka-2.png
+INPUT ./dousakekka-3.png
+INPUT ./dousakekka-3.png
+INPUT ./dousakekka-3.png
+INPUT extractbb -B cropbox -O dousakekka-3.png
+INPUT ./dousakekka-4.png
+INPUT ./dousakekka-4.png
+INPUT ./dousakekka-4.png
+INPUT extractbb -B cropbox -O dousakekka-4.png
+INPUT ./dousakekka-5.png
+INPUT ./dousakekka-5.png
+INPUT ./dousakekka-5.png
+INPUT extractbb -B cropbox -O dousakekka-5.png
+INPUT ./dousakekka-6.png
+INPUT ./dousakekka-6.png
+INPUT ./dousakekka-6.png
+INPUT extractbb -B cropbox -O dousakekka-6.png
+INPUT ./dousakekka-7.png
+INPUT ./dousakekka-7.png
+INPUT ./dousakekka-7.png
+INPUT extractbb -B cropbox -O dousakekka-7.png
+INPUT ./dousakekka-8.png
+INPUT ./dousakekka-8.png
+INPUT ./dousakekka-8.png
+INPUT extractbb -B cropbox -O dousakekka-8.png
+INPUT ./dousakekka-9.png
+INPUT ./dousakekka-9.png
+INPUT ./dousakekka-9.png
+INPUT extractbb -B cropbox -O dousakekka-9.png
+INPUT ./dousakekka-10.png
+INPUT ./dousakekka-10.png
+INPUT ./dousakekka-10.png
+INPUT extractbb -B cropbox -O dousakekka-10.png
+INPUT ./dousakekka-11.png
+INPUT ./dousakekka-11.png
+INPUT ./dousakekka-11.png
+INPUT extractbb -B cropbox -O dousakekka-11.png
+INPUT ./dousakekka-12.png
+INPUT ./dousakekka-12.png
+INPUT ./dousakekka-12.png
+INPUT extractbb -B cropbox -O dousakekka-12.png
+INPUT ./dousakekka-13.png
+INPUT ./dousakekka-13.png
+INPUT ./dousakekka-13.png
+INPUT extractbb -B cropbox -O dousakekka-13.png
+INPUT ./title.png
+INPUT ./title.png
+INPUT ./title.png
+INPUT extractbb -B cropbox -O title.png
+INPUT ./form.png
+INPUT ./form.png
+INPUT ./form.png
+INPUT extractbb -B cropbox -O form.png
+INPUT ./univs.png
+INPUT ./univs.png
+INPUT ./univs.png
+INPUT extractbb -B cropbox -O univs.png
+INPUT report_format.aux

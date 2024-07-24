@@ -15,6 +15,7 @@
 林 宏祐 09B23065 u653793g@ecs.osaka-u.ac.jp
 }
 \date{提出日:\today}
+
 \begin{document}
 \maketitle
 
@@ -48,6 +49,7 @@
 質問やバックエンドから受け取った大学の一覧を画面に表示するプログラムを組むことができた．また，画面表示のデザインを全体的に統一し，UI/UXの向上に努めた．
 \item{バックエンド} \\
 データベースから取得した大学のデータをモックし，その中から質問の回答に合致する大学を抽出するプログラムを組むことができた．
+\end{itemize}
 
 \section{動作環境}
 動作環境には，Node.js：20.15.0，Google Chrome\(v8\)を採用した．
@@ -55,21 +57,27 @@
 
 \section{動作結果}
 ここでは実際にシステムを動作させたときの様子を示していく．
+
 \begin{figure}[h]
-\includegraphics{dousakekka-1.png}
+  \centering
+\includegraphics[scale=0.20]{dousakekka-1.png}
 \caption{ウェブ起動時}
 \end{figure}
+
 スクロールしながら質問に答えていく．
 
 \begin{figure}[h]
-\includegraphics{dousakekka-2.png}
+  \centering
+\includegraphics[scale=0.20]{dousakekka-2.png}
 \caption{質問解答}
 \end{figure}
+
 質問への解答はYes or No．
 各々の質問に解答した後，診断ボタンを押すことで該当する大学名を表示．
 
 \begin{figure}[h]
-\includegraphics{dousakekka-3.png}
+  \centering
+\includegraphics[scale=0.20]{dousakekka-3.png}
 \caption{診断結果の表示}
 \end{figure}
 
@@ -79,29 +87,41 @@
 以下に，異なる解答をした場合の診断結果について表示する．
 
 一般的に理系的であると捉えられる解答をした場合．
+
 \begin{figure}[h]
-\includegraphics{dousakekka-4.png}
-\includegraphics{dousakekka-5.png}
-\includegraphics{dousakekka-6.png}
+  \centering
+\includegraphics[scale=0.20]{dousakekka-4.png}
+\includegraphics[scale=0.20]{dousakekka-5.png}
+\includegraphics[scale=0.20]{dousakekka-6.png}
 \end{figure}
+
 その結果．
+
 \begin{figure}[h]
-\includegraphics{dousakekka-7.png}
-\includegraphics{dousakekka-8.png}
+  \centering
+\includegraphics[scale=0.20]{dousakekka-7.png}
+\includegraphics[scale=0.20]{dousakekka-8.png}
 \end{figure}
+
 理系の大学学部が表示されている．
 
 一般的に文系的であると捉えられる解答をした場合．
+
 \begin{figure}[h]
-\includegraphics{dousakekka-9.png}
-\includegraphics{dousakekka-10.png}
-\includegraphics{dousakekka-11.png}
+  \centering
+\includegraphics[scale=0.20]{dousakekka-9.png}
+\includegraphics[scale=0.20]{dousakekka-10.png}
+\includegraphics[scale=0.20]{dousakekka-11.png}
 \end{figure}
+
 その結果．
+
 \begin{figure}[h]
-\includegraphics{dousakekka-12.png}
-\includegraphics{dousakekka-13.png}
+  \centering
+\includegraphics[scale=0.20]{dousakekka-12.png}
+\includegraphics[scale=0.20]{dousakekka-13.png}
 \end{figure}
+
 文系の大学学部が表示されている．
 
 \section{課題3で最も苦労した点，次に苦労した点}
