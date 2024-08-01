@@ -79,8 +79,8 @@
 
 \section{動作結果}
 ここでは実際にシステムを動作させたときの様子を示していく．
-
-\begin{figure}[h]
+\newpage
+\begin{figure}[htbp]
   \centering
 \includegraphics[scale=0.20]{dousakekka-1.png}
 \caption{ウェブ起動時}
@@ -88,7 +88,7 @@
 
 スクロールしながら質問に答えていく．
 
-\begin{figure}[h]
+\begin{figure}[htbp]
   \centering
 \includegraphics[scale=0.20]{dousakekka-2.png}
 \caption{質問解答}
@@ -97,12 +97,12 @@
 質問への解答はYes or No．
 各々の質問に解答した後，診断ボタンを押すことで該当する大学名を表示．
 
-\begin{figure}[h]
+\begin{figure}[htbp]
   \centering
-\includegraphics[scale=0.20]{dousakekka-3.png}
+\includegraphics[scale=0.15]{dousakekka-3.png}
 \caption{診断結果の表示}
 \end{figure}
-
+\newpage
 該当大学，学部とその簡単な説明を表示する．
 該当する大学が複数個存在する場合，それぞれ表示する．
 
@@ -110,38 +110,38 @@
 
 一般的に理系的であると捉えられる解答をした場合．
 
-\begin{figure}[h]
+\begin{figure}[htbp]
   \centering
-\includegraphics[scale=0.20]{dousakekka-4.png}
-\includegraphics[scale=0.20]{dousakekka-5.png}
-\includegraphics[scale=0.20]{dousakekka-6.png}
+\includegraphics[scale=0.12]{dousakekka-4.png}
+\includegraphics[scale=0.12]{dousakekka-5.png}
+\includegraphics[scale=0.12]{dousakekka-6.png}
 \end{figure}
 
 その結果．
 
-\begin{figure}[h]
+\begin{figure}[htbp]
   \centering
-\includegraphics[scale=0.20]{dousakekka-7.png}
-\includegraphics[scale=0.20]{dousakekka-8.png}
+\includegraphics[scale=0.15]{dousakekka-7.png}
+\includegraphics[scale=0.15]{dousakekka-8.png}
 \end{figure}
 
 理系の大学学部が表示されている．
-
+\newpage
 一般的に文系的であると捉えられる解答をした場合．
 
-\begin{figure}[h]
+\begin{figure}[htbp]
   \centering
-\includegraphics[scale=0.20]{dousakekka-9.png}
-\includegraphics[scale=0.20]{dousakekka-10.png}
-\includegraphics[scale=0.20]{dousakekka-11.png}
+\includegraphics[scale=0.12]{dousakekka-9.png}
+\includegraphics[scale=0.12]{dousakekka-10.png}
+\includegraphics[scale=0.12]{dousakekka-11.png}
 \end{figure}
 
 その結果．
 
-\begin{figure}[h]
+\begin{figure}[htbp]
   \centering
-\includegraphics[scale=0.20]{dousakekka-12.png}
-\includegraphics[scale=0.20]{dousakekka-13.png}
+\includegraphics[scale=0.15]{dousakekka-12.png}
+\includegraphics[scale=0.15]{dousakekka-13.png}
 \end{figure}
 
 文系の大学学部が表示されている．
@@ -202,6 +202,12 @@ conflictについては，実際にconflictが起きたときに，それを解�
 ○生徒の偏差値帯を考慮したアプリケーションの作成\\
 \\
 ○質問に対して正確に答えられていない場合のエラー出力の実装\\
+
+\section{今後の課題}
+生徒の偏差値帯や模試の点数状況等を記録して，同学力帯の合格状況や大学の合格基準偏差値から，提示する大学群をさらに限定する．
+また，このサービスを利用した高校生ユーザーやサービスを参考にして大学進学をした大学生ユーザーに，アンケート調査を行いフィードバックする機構を用意する．
+加えて，質問で操作するパラメータ，およびその程度を，論理性と信憑性を持つように設定する．
+以上のことをこのサービスに置いて改善すべき事項と定め，議論を進めることを残された課題とする．
 
 \section{感想・謝辞}
 本授業の遂行にあたり，大阪大学 大学院 情報科学科 松下 誠准教授にはレポートの書き方，効率的なチーム開発の方法等多岐に渡る指導を頂きました．また他の先生方にも議事録を通してのフィードバックや的確なアドバイスを頂き大変勉強になりました．ありがとうございました．

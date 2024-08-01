@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1721821582.26887 "report_format.dvi" "report_format.pdf" "report_format" 1721821585.94958 0
-  "report_format.dvi" 1721821582 15024 d5e2b3adc1903e93ffe4a88db2daad44 "latex"
+["dvipdf"] 1722496493.27375 "report_format.dvi" "report_format.pdf" "report_format" 1722496496.97448 0
+  "report_format.dvi" 1722496493 17696 a733c4823b47e77c9ae23f05daf11403 "latex"
   (generated)
   "report_format.pdf"
   (rewritten before read)
-["latex"] 1721821566.17848 "c:/Users/light/report/report_format.tex" "report_format.dvi" "report_format" 1721821585.94726 0
-  "c:/Users/light/report/report_format.tex" 1721821565 10378 9239d8d18cf5e984f970a3734ce9e81f ""
+["latex"] 1722496477.39502 "c:/Users/light/report/report_format.tex" "report_format.dvi" "report_format" 1722496496.97238 0
+  "c:/Users/light/report/report_format.tex" 1722496460 12505 8269a0bdb762e38868d69255378ef0d6 ""
   "c:/Users/light/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1721648330 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1721648002 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1721650430 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -14,10 +14,8 @@
   "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm" 1721650430 856 39c171483fe1bb7d0e1368980c0c205b ""
   "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1721646801 1004 54797486969f23fa377b128694d548df ""
   "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1721646801 916 f87d7c45f9c908e672703b83b72241a3 ""
-  "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1721646801 924 9904cf1d39e9767e7a3622f2a125a565 ""
   "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1721646801 928 2dc8d444221b7a635bb58038579b861a ""
   "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1721646801 908 2921f8a10601f252058503cc6570e581 ""
-  "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1721646801 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1721646801 940 228d6584342e91276bf566bcf9716b83 ""
   "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1721647536 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/Users/light/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1721647536 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
@@ -60,11 +58,11 @@
   "dousakekka-7.png" 1721643176 73550 56d8831ec5696e6b13e50760a43f3555 ""
   "dousakekka-8.png" 1721643176 77357 cd77dd4269463ffa17a09ebdf80b305b ""
   "dousakekka-9.png" 1721643176 38756 eb37d7ee3bf212387dcb03271d0b1312 ""
-  "form.png" 1721374439 48374 c2f86349e009ad234558b49db53ddda2 ""
-  "report_format.aux" 1721821582 2295 b26212d8e878709b5d01065c2671ebb8 "latex"
-  "report_format.tex" 1721821565 10378 9239d8d18cf5e984f970a3734ce9e81f ""
+  "form2.png" 1722493966 80248 c8aa311cb7589cef9f6b955e097d7190 ""
+  "report_format.aux" 1722496493 2399 13d23e819c07c3f798ac3199c58018b1 "latex"
+  "report_format.tex" 1722496460 12505 8269a0bdb762e38868d69255378ef0d6 ""
   "title.png" 1721374439 279823 999c60395dc788ddc2bcadae2bafd77f ""
-  "univs.png" 1721374439 98230 064a82355e64c1923ff94245f5db589d ""
+  "univs2.png" 1722493966 88097 f82047b1f68ca003d9b8982b29cb53bf ""
   (generated)
   "report_format.aux"
   "report_format.dvi"

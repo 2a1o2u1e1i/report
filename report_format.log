@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.7.22)  24 JUL 2024 20:46
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.7.22)  1 AUG 2024 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -171,12 +171,14 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 39.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 39.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 53.
 
 
 [1]
+
+[2]
 File: dousakekka-1.png Graphic file (type bmp)
 <dousakekka-1.png>
 File: dousakekka-2.png Graphic file (type bmp)
@@ -185,63 +187,44 @@ File: dousakekka-3.png Graphic file (type bmp)
 <dousakekka-3.png>
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+[3]
 File: dousakekka-4.png Graphic file (type bmp)
 <dousakekka-4.png>
 File: dousakekka-5.png Graphic file (type bmp)
 <dousakekka-5.png>
 File: dousakekka-6.png Graphic file (type bmp)
 <dousakekka-6.png>
-
-
-[2]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 File: dousakekka-7.png Graphic file (type bmp)
 <dousakekka-7.png>
 File: dousakekka-8.png Graphic file (type bmp)
 <dousakekka-8.png>
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
+[4]
 File: dousakekka-9.png Graphic file (type bmp)
 <dousakekka-9.png>
 File: dousakekka-10.png Graphic file (type bmp)
 <dousakekka-10.png>
 File: dousakekka-11.png Graphic file (type bmp)
 <dousakekka-11.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 File: dousakekka-12.png Graphic file (type bmp)
 <dousakekka-12.png>
 File: dousakekka-13.png Graphic file (type bmp)
 <dousakekka-13.png>
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[3]
-File: title.png Graphic file (type bmp)
-<title.png>
-File: form.png Graphic file (type bmp)
-<form.png>
-File: univs.png Graphic file (type bmp)
-<univs.png>
-
-
-[4]
 
 [5]
+File: title.png Graphic file (type bmp)
+<title.png>
+File: form2.png Graphic file (type bmp)
+<form2.png>
+File: univs2.png Graphic file (type bmp)
+<univs2.png>
+
 
 [6]
 
-[7]
-
-[8] (./report_format.aux)
+[7] (./report_format.aux)
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2024-06-01> patch level 2
@@ -249,12 +232,12 @@ L3 programming layer <2024-05-27>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2379 strings out of 474243
- 35269 string characters out of 5741850
+ 2376 strings out of 474243
+ 35299 string characters out of 5741850
  1925753 words of memory out of 5000000
- 25256 multiletter control sequences out of 15000+600000
- 568119 words of font info for 78 fonts, out of 8000000 for 9000
+ 25255 multiletter control sequences out of 15000+600000
+ 567474 words of font info for 75 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  57i,6n,65p,501b,338s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report_format.dvi (9 pages, 15024 bytes).
+Output written on report_format.dvi (8 pages, 17696 bytes).
